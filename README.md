@@ -1,6 +1,8 @@
 ## GDC Application Task
 
-GDC Fellowship Program for students who have completed the Lite Program. To be considered, students must complete a coding challenge using NodeJS and JavaScript/Typescript. The challenge involves building a web application using NodeJS and TailwindCSS to manage appointments.
+GDC Fellowship Program for students who have completed the Lite Program. To be considered, students must complete a coding challenge using your preferred Tech Stack. If you've completed the WD201 course, you can use NodeJS and JavaScript/Typescript. Whatever be the tech stack that you choose, ensure that you style your Webapp using TailwindCSS. 
+
+The challenge involves building a web application to manage appointments.
 
 The application should have the following mandatory features:
 
